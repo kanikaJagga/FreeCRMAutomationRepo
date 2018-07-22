@@ -1,0 +1,14 @@
+<suite name="Free CRM automation  test Suite">
+<Test name="Free CRM App Test Cases">
+<classes>
+
+<class name="com.crm.qa.testdata.LoginPageTest"></class>
+<class name="com.crm.qa.testdata.HomePageTest"></class>
+
+
+
+</classes>
+
+</Test>
+
+</suite>
